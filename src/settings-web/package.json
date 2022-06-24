@@ -35,7 +35,7 @@
     "office-ui-fabric-react": "^7.51.0",
     "react": "~16.8.0",
     "react-dom": "~16.8.0",
-    "snyk": "^1.494.0"
+    "snyk": "^1.680.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.0",
